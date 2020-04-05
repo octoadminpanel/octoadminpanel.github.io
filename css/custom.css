@@ -1,0 +1,39 @@
+body {
+    font-family: 'Source Sans',sans-serif;
+}
+
+h1 {
+    font-weight: 400;
+    font-size: 41px;
+    font-family: 'Source Sans Pro',sans-serif;
+}
+
+h2 {
+    color: #999;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.screen img {
+    display: block;
+    max-width: 100%!important;
+    margin: 0 auto;
+    -webkit-box-shadow: 0 5px 35px 7px rgba(0,0,0,.45);
+    box-shadow: 0 5px 35px 7px rgba(0,0,0,.45);
+    height: auto;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.bg-orange {
+    background-color: #fc6c18;
+}
+
+.bg-orange:hover {
+    background-color: #fc6c18;
+    opacity: 0.75;
+}
+
+.text-orange {
+    color: #fc6c18;
+}
